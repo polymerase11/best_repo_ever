@@ -1,2 +1,2 @@
-# best_repo_ever
+# script collections
 Repository for useful scripts. 
